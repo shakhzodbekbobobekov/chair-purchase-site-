@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+#top_menu {
+    background-color:#EFEFEF;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+#logo {
+    padding: 2% 0.5%;
+}
+
+.kva {
+    border-radius: 1.2rem;
+    border: 0.2rem solid green;
+}
+
+.logo_img {
+    margin-right: 1rem;
+}
+
+.col_in1 {
+    text-align: left;
+}
+
+.col_in1 span {
+    font-size: 2.5rem;
+    letter-spacing: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: rgb(102, 192, 93);
+    padding-top: 0.5rem;
+    position: absolute;
+}
+
+.col_in2 {
+    text-align: right;
+}
+
+.col_in2 span {
+    letter-spacing: 0.2rem;
+    margin-right: 1rem;
+}
