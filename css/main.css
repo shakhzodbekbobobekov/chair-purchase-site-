@@ -45,3 +45,61 @@
     letter-spacing: 0.2rem;
     margin-right: 1rem;
 }
+
+#middle_menu {
+    padding: 1%;
+}
+
+#bg_img {
+    background-image: url(../images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+    color: #fff;
+    padding: 3% 15%;
+} 
+
+.bg_text {
+    margin-left: 12rem;
+    margin-top: 8rem;
+}
+
+.bg_text p{
+    max-width:20rem;
+}
+
+.bg_text .btn {
+    border: solid #fff 2px;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.bg_text .btn:hover {
+    background-color: #fff;
+    color: black;
+}
+
+#price {
+    background-color: #EFEFEF;
+    padding: 5%;
+}
+
+#price h3 {
+    padding-left: 3%;
+}
+
+.price_box {
+    padding: 4%;
+    text-align: center;
+}
+
+.price_in_box {
+    background-color: #fff;
+    padding: 3%;
+}
+
+.text_price .btn:hover{
+    background-color: #fff;
+    color: black;
+}
