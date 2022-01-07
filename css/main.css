@@ -103,3 +103,55 @@
     background-color: #fff;
     color: black;
 }
+
+#two_box {
+    padding: 3%;
+    text-align: center;
+    
+}
+
+.qator {
+    text-align: left;
+    background-color: #66C05D;
+    margin: 0.5rem;
+    padding: 3%;
+    min-height: 13rem;
+    color: #fff;
+}
+
+.qator_ichida .btn {
+    padding: 0.5rem 4rem 0.5rem 4rem;
+    background-color: #66C05D;
+    border:solid 2px #fff;
+}
+
+.qator_ichida .btn:hover {
+    color: black;
+    background-color: blanchedalmond;
+
+}
+
+#icon {
+    text-align: center;
+    background-color: #EFEFEF;
+    padding: 3%;
+}
+
+.input_btn{
+    border-radius: 25px;
+    border: solid 2px #fff;
+}
+
+.myicon {
+    color: #66C05D;
+    padding: 0.5rem;
+}
+
+a .myicon:hover {
+    color: darkblue;
+}
+
+#icon .btn {
+    border-radius: 20px;
+    margin-left: 0.5rem;
+}
