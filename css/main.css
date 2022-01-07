@@ -155,3 +155,20 @@ a .myicon:hover {
     border-radius: 20px;
     margin-left: 0.5rem;
 }
+
+#footer {
+    background-color: #8d8c8c;
+    color: #fff;
+    font-size: 0.7rem;
+    padding: 2%;
+}
+
+#footer a{
+    text-decoration: none;
+    color: #fff;
+    text-align: right;
+}
+
+#footer p:hover{
+    color: #000;
+}
